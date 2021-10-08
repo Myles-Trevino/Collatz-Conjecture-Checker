@@ -1,0 +1,7 @@
+.vs
+Build
+Include
+Intermediate
+Libraries
+*.sln
+*.vcxproj*
